@@ -10,11 +10,11 @@
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
-I'm an **Infrastructure & ML Engineer** who thrives at the intersection of **Data Science** and **Software Architecture**. 
+I'm an **Infrastructure & ML Engineer** who thrives at the intersection of **Data Science** and **Software Architecture**.
 
-My superpower is taking machine learning models out of Jupyter notebooks and embedding them into high-throughput microservices—without sacrificing latency or accuracy. I'm a polyglot developer who believes in choosing the right tool for the job, whether it's Java, Go, Fiber, or Python.
+My superpower is taking machine learning models out of Jupyter notebooks and embedding them into high-throughput microservices—without sacrificing latency or accuracy. I'm a polyglot developer who believes in choosing the right tool for the job, whether it's **Java, Go, Fiber, or Python**.
 
 ---
 
@@ -22,33 +22,19 @@ My superpower is taking machine learning models out of Jupyter notebooks and emb
 
 | Area | Technologies |
 | :--- | :--- |
-| **Core Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-1.5.0-00B4D8?style=flat&logo=go) |
-| **Backend Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) |
-| **Architecture & Concurrency** | Microservices, Event-Driven, gRPC, Kafka, Redis, Circuit Breaker, Saga Pattern |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| **ML & Data Engineering** | Model Deployment (ONNX, Triton), Vector DBs (Pinecone/Milvus), Feature Store, MLflow, Model Monitoring |
-
----
-
-### 📌 Featured Projects
-
-Here’s a glimpse of what I enjoy building:
-
-- **⚡ [Real-Time Processing Pipeline]** <br> 
-  Migrated a monolithic architecture to **Go-Fiber** and **Spring Boot** microservices, implementing distributed caching (Redis) to handle 5,000+ concurrent requests with <100ms response time.
-
-- **🤖 [Intelligent Inference Service]** <br>
-  Designed and deployed an **ML model** using **FastAPI** and **gRPC**, serving 2,000 concurrent users with a p95 latency under 50ms.
-
-- **🗄️ [Query Optimization Engine]** <br>
-  Optimized indexing and partitioning strategies in **PostgreSQL**, reducing complex analytical query execution time by 70%.
+| **Backend Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Go Fiber](https://img.shields.io/badge/Fiber-1.5.0-00B4D8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **Core Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **Architecture & Concurrency** | Microservices, Event-Driven, WebSocket, gRPC, Circuit Breaker, Saga Pattern |
+| **ML & Data Engineering** | XGBoost, scikit-learn, Model Deployment (FastAPI), Real-time Inference |
 
 ---
 
 ### 🧩 My Engineering Philosophy
 
-> "Good code works. Great code disappears."  
-> — I follow **KISS** and **YAGNI** religiously. Complexity is a tool to solve problems, not a trophy to show off. I design systems that are easy to reason about, even under failure conditions.
+> *"Good code works. Great code disappears."*
+
+I follow **KISS** and **YAGNI** religiously. Complexity is a tool to solve problems, not a trophy to show off. I design systems that are easy to reason about, even under failure conditions.
 
 ---
 
@@ -56,12 +42,12 @@ Here’s a glimpse of what I enjoy building:
 
 I'm always open to collaborating on challenging distributed systems or discussing ML infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arian-esmkhani)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arian-esmkhani&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
