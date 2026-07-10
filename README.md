@@ -11,8 +11,7 @@
 ---
 
 ### 👋 About Me
-
-I'm an **Infrastructure & ML Engineer** who thrives at the intersection of **Data Science**, **Software Architecture**, and **Cloud-Native Engineering**.
+I'm **Arian**, a 20-year-old **Infrastructure & ML Engineer** who thrives at the intersection of **Data Science**, **Software Architecture**, and **Cloud-Native Engineering**.
 
 My superpower is taking machine learning models out of Jupyter notebooks and embedding them into high-throughput microservices—without sacrificing latency or accuracy. I design systems that are not only performant but also resilient, observable, and cloud-ready. I'm a polyglot developer who believes in choosing the right tool for the job, whether it's **Java, Go, Fiber, or Python**.
 
